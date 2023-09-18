@@ -12,7 +12,7 @@ step-5 git status  -- check git status (Show the working tree status)
 step-6 git commit  -- to save file at repository
 step-7 git status  -- check repository added files (commnd display repository saved files tree)
 step-8 touch about.html  -- create new file about.html
-
+step-9 histoy -c --clear git history
 
 
 
